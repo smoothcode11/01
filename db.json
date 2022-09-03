@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "Monika",
+    "img": "https://kundenportal.amor-heiratsbuero.de/data/monika.jpg"
+  }
+}
