@@ -6,7 +6,7 @@
       "title": "hello"
     }
   ],
-  "profile": [
+  "profile":
   {
     "id": 1,
     "img": "https://kundenportal.amor-heiratsbuero.de/data/monika.jpg",
@@ -55,6 +55,4 @@
       "bs": "synergize scalable supply-chains"
     }
   }
-]
-
 }
