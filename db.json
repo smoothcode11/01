@@ -1,14 +1,14 @@
 {
-  "posts": [
+  "profile": [
     {
-      "id": 1,
-      "title": "hello"
+
+    "name": "Monika",
+    "img": "https://kundenportal.amor-heiratsbuero.de/data/monika.jpg"
+
     }
   ],
-  "profile": {
-    "id": 1,
-    "img": "https://kundenportal.amor-heiratsbuero.de/data/monika.jpg",
-    "name": "Monika",
-    "username": "Monika"
+  "posts": {      
+      "id": 1,
+      "title": "hello"
   }
 }
