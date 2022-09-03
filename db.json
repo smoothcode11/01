@@ -18,7 +18,7 @@
   "posts": [
   {      
     "userId": 2,
-    "id": [1 , 2],
+    "id": 1,
     "title": "Interessen",
     "body": "Lange Beziehungen"
   }
@@ -27,7 +27,7 @@
   {
     "postId": 1,
     "id": 1,
-    "name": "Admin",
+    "name": "Anmerkung",
     "email": "smoothcode@gmail.biz",
     "body": "Persönlich geprüft"
   }
