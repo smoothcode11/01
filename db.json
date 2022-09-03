@@ -22,5 +22,14 @@
     "title": "Interessen",
     "body": "Lange Beziehungen"
   }
+  ],
+  "comments": [
+  {
+    "postId": 2,
+    "id": 1,
+    "name": "Admin",
+    "email": "smoothcode@gmail.biz",
+    "body": "Persönlich geprüft"
+  }
   ]
 }
