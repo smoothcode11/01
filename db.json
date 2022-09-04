@@ -27,15 +27,14 @@
     "userId": 2,
     "id": 1,
     "title": "Interessen",
-    "body": "Lange Beziehungen"
+    "body": "Lange Beziehungen mit Männern"
   }
   ],
   "comments": [
   {
     "postId": 1,
     "id": 1,
-    "name": "Anmerkung",
-    "email": "smoothcode@gmail.biz",
+    "name": "Extras",
     "body": "Persönlich geprüft"
   }
   ]
