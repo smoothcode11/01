@@ -5,21 +5,21 @@
     "id": 1,
     "username": "Svetlana",
     "name": "Svetlana",
-    "img": "https://www.amor-heiratsbuero.de/data/uid0.jpg"
+    "img": "https://www.amor-heiratsbuero.de/data/uid1.jpg"
     },
     {
     "userId": 2,
     "id": 2,
     "username": "Monika",
     "name": "Monika",
-    "img": "https://www.amor-heiratsbuero.de/data/uid1.jpg"
+    "img": "https://www.amor-heiratsbuero.de/data/uid2.jpg"
     },
     {
     "userId": 3,
     "id": 3,
     "username": "Monica",
     "name": "Monica",
-    "img": "https://www.amor-heiratsbuero.de/data/uid2.png"
+    "img": "https://www.amor-heiratsbuero.de/data/uid3.png"
     }
   ],
   "posts": [
